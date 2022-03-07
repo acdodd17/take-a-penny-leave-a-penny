@@ -16,7 +16,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(MONGODB_URI, {
+mongoose.connect(MONGODB_URI || 'mongod:localhost:27017/penny-tracker', {
   useNewUrlParser: true,
   useFindAndModify: false
 });
