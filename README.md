@@ -14,9 +14,9 @@ This application provides users with a fast and easy way to track their money an
 ## Installation and Usage
 Clone this repository and use `npm install` to get started. Then use `npm start` to connect the server and start tracking your budget! 
 
-> - ![Screenshot of Application](/public/Screenshot.png)
+![Screenshot of Application](/public/Screenshot.png)
 
-> - Deployed Application
+> - [Deployed Application](https://take-a-penny-leave-a-penny.herokuapp.com/)
 
 
 ## Contribution 
