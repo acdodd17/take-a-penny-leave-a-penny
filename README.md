@@ -5,19 +5,18 @@ This application provides users with a fast and easy way to track their money an
 
 >Built with: 
 >- IndexedDB
->- PWA Service worker
+>- PWA Service Worker
 >- Express
 >- Morgan
 >- Mongoose
 >- Compression
 
-
-
 ## Installation and Usage
 Clone this repository and use `npm install` to get started. Then use `npm start` to connect the server and start tracking your budget! 
 
-> Screenshot of Application
-> Deployed Application
+> - ![Screenshot of Application](/public/Screenshot.png)
+
+> - Deployed Application
 
 
 ## Contribution 
